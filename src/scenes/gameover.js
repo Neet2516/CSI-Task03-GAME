@@ -67,6 +67,7 @@ export default function gameover(citySfx) {
         k.color(0, 0, 0),
         k.area(),
         k.anchor("center"),
+
         k.outline(6, k.Color.fromArray([255, 255, 255])),
         k.pos(k.center().x + 400, k.center().y + 50),
     ]);
