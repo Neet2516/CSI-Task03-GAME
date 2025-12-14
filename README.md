@@ -1,3 +1,4 @@
+This is the deployed link for this project  - [CSI-Task-03](https://csi-task03-game.onrender.com/)
 # CSI-Task03-Game
 
 This is the CSI task of making a game using  Javascript with Kaplay library . Here we are to choose any of the libraries or the frameworks for the accomplishment of the task . Any type of library is appreciable while proceeding with  the task .
